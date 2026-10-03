@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller / installer build output (upload these to GitHub Releases instead)
+build/
+dist/
+*.spec
+installer_output/

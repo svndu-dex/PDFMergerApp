@@ -1,0 +1,7 @@
+customtkinter
+tkinterdnd2
+pypdf
+pillow
+pymupdf
+cryptography
+pyinstaller
